@@ -1,4 +1,4 @@
-# About GO-VUE-TODO-AUTH
+#GO-VUE-TODO-AUTH
 Simple task manager with login and register the enable that each user to create task and view their tasks.
 The backend was developed using Golang with its fiber framework.
 The frontend was developed using Vue 3, vuex and tailwind for the styling
