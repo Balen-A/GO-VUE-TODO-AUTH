@@ -1,8 +1,9 @@
 # About GO-VUE-TODO-AUTH
-Simple task manager with login and register the enable the users to create task and vue the tasks.
+Simple task manager with login and register the enable that each user to create task and view their tasks.
 The backend was developed using Golang with its fiber framework.
-The frontend was developed using Vue 3, vuex and tailwind for the styling 
+The frontend was developed using Vue 3, vuex and tailwind for the styling
 JWT TOKEN was used for authentication saving the user cookie in the browser.
+The database uses mySQL
 
 ## Built With
 
